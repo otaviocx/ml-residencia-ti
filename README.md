@@ -183,12 +183,11 @@ Cada grupo deverá **escolher um tipo de aprendizado** e aplicar **duas ou mais 
 
 | Critério | Peso | Descrição |
 |-----------|------|-----------|
-| **Entendimento do negócio** | 10% | Clareza e relevância da formulação do problema. |
+| **Entendimento do negócio** | 15% | Clareza e relevância da formulação do problema. |
 | **Entendimento e análise dos dados** | 15% | Qualidade da análise exploratória e insights obtidos. |
 | **Preparação dos dados** | 20% | Correção e justificativa das transformações. |
 | **Modelagem** | 30% | Aplicação e comparação de algoritmos. |
-| **Avaliação e interpretação** | 15% | Uso correto de métricas e análise crítica. |
-| **Apresentação e comunicação** | 10% | Clareza, visualização e domínio do conteúdo. |
+| **Avaliação e interpretação** | 20% | Uso correto de métricas e análise crítica. |
 
 ---
 
